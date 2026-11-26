@@ -2,8 +2,8 @@
 # in goldspanlabs/gitcraft by its release workflow, which fills in the version and
 # sha256. Edit the template there, not the copy in the tap.
 cask "gitcraft" do
-  version "1.0.1"
-  sha256 "fd3b6993a8043464aab258b7ae18cf1c3443df4b4d61fed7dacc8351d7620a56"
+  version "1.1.0"
+  sha256 "4ec488cf60ccbcc2f5663d5e710f80d65896eee4901d12c1dd3655a3e7cb804e"
 
   url "https://github.com/goldspanlabs/gitcraft/releases/download/v#{version}/GitCraft-v#{version}.dmg"
   name "GitCraft"
